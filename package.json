@@ -46,7 +46,7 @@
     "blueimp-load-image": "^2.26.0",
     "coordinate-parser": "^1.0.2",
     "exif-js": "^2.3.0",
-    "leaflet": "^1.6.0",
+    "leaflet": "^1.9.4",
     "leaflet-css": "^0.1.0",
     "mobx": "^5.15.2",
     "mobx-react": "^6.1.5",
